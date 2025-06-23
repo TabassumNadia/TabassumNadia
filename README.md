@@ -10,7 +10,6 @@
 - Mostly into writing… trying to be consistent <br>
 - Working on small creative projects to grow consistently — even a little each day  <br>
 - Based in Bangladesh (UTC+6)📍 <br>
-
 Basically I'm trying to stay consistent in my learning journey.
 Got bored repeating the basics for too long, so on June 22, 2025, I decided to set up this GitHub and start exploring everything that excites me.
 I’ve tried my hands on C, C++, Java, HTML, CSS, JavaScript, Python, and React, and I enjoy building small projects just for fun.
